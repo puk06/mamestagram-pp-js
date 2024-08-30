@@ -4,7 +4,7 @@ Difficulty and performance calculation for all [osu!](https://osu.ppy.sh/) modes
 
 This is a js binding to the Rust library [mamestagram-pp-rs](https://github.com/Mamestagram/mamestagram-pp-rs) which was bootstrapped through [neon](https://www.npmjs.com/package/create-neon).
 Since all the heavy lifting is done by Rust, rosu-pp-js comes with a very fast performance.
-Check out rosu-pp's [README](https://github.com/Mamestagram/mamestagram-pp-rs/blob/main/README.md) for more info.
+Check out mamestagram-pp-rs's [README](https://github.com/Mamestagram/mamestagram-pp-rs/blob/main/README.md) for more info.
 
 ## How to use mamestagram-pp-js
 
