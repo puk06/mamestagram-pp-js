@@ -1,12 +1,13 @@
-# rosu-pp-js
+# mamestagram-pp-js
 
 Difficulty and performance calculation for all [osu!](https://osu.ppy.sh/) modes.
+https://
 
-This is a js binding to the Rust library [rosu-pp](https://github.com/MaxOhn/rosu-pp) which was bootstrapped through [neon](https://www.npmjs.com/package/create-neon).
+This is a js binding to the Rust library [mamestagram-pp-rs](https://github.com/Mamestagram/mamestagram-pp-rs) which was bootstrapped through [neon](https://www.npmjs.com/package/create-neon).
 Since all the heavy lifting is done by Rust, rosu-pp-js comes with a very fast performance.
-Check out rosu-pp's [README](https://github.com/MaxOhn/rosu-pp/blob/main/README.md) for more info.
+Check out rosu-pp's [README](https://github.com/Mamestagram/mamestagram-pp-rs/blob/main/README.md) for more info.
 
-## How to use rosu-pp-js
+## How to use mamestagram-pp-js
 
 The library exposes two classes: `Beatmap` and `Calculator`.
 
