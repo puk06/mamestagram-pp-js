@@ -13,4 +13,4 @@ crate-type = ["cdylib"]
 
 [dependencies]
 neon = { version = "0.10", default-features = false, features = ["napi-6"] }
-akatsuki-pp = { git = "https://github.com/Mamestagram/mamestagram-pp-rs", rev = "a42bfea12da319046c3fd7df5e95c8c66e20acb9" }
+akatsuki-pp = { git = "https://github.com/Mamestagram/mamestagram-pp-rs" }
